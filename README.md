@@ -1,18 +1,27 @@
-Expense Management Engine
-A professional Command-Line Interface (CLI) application built with Core Python for efficient expense tracking.
+# 💰 Expense Management Engine (Flask Web App)
 
-Key Features
-Dynamic CLI with color-coded feedback.
+A simple **Expense Management Web Application** built using **Python Flask**.  
+This project was originally a **CLI-based expense tracker** and has been converted into a **web application**.
 
-Data Persistence using JSON file handling.
+---
 
-Modular Logic structured using functions.
+## 🚀 Features
 
-Secure Handling with .gitignore for private data.
+- Add new expenses
+- View expense history
+- Data stored in JSON file
+- Simple and lightweight Flask web interface
+- Easy to deploy using Docker and AWS
 
-Technologies Used
-Language: Python 3.x
+---
 
-Data Format: JSON
+## 🛠️ Tech Stack
 
-Concepts: File I/O, Error Handling, Modular Programming.
+- Python
+- Flask
+- HTML
+- JSON (for data storage)
+
+---
+
+## 📂 Project Structure
